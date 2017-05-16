@@ -9,7 +9,7 @@ Content of the basket as well as calculated total cost is printed to the system 
 
 ## Assumptions
 - prices are defined in pennies and `int` type capacity is sufficient to store them
-- `int` capacity is sufficient as well for a total cost of a basket in pennies
+- `int` capacity is sufficient as well for the total cost of a basket in pennies
 - fruit names are case sensitive
 
 ## Test
